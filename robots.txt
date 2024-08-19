@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://monsonge.github.io/sitemap.html.gz
+Sitemap: https://monsonge.github.io/app/sitemap.html.gz
+Sitemap: https://monsonge.github.io/assets/sitemap.html.gz
+Sitemap: https://monsonge.github.io/css/sitemap.html.gz
+Sitemap: https://monsonge.github.io/includes/sitemap.html.gz
+Sitemap: https://monsonge.github.io/item/sitemap.html.gz
+Sitemap: https://monsonge.github.io/src/sitemap.html.gz
